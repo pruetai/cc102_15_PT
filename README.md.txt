@@ -1,2 +1,2 @@
-hello my name is prue
-i like drink coffee.
+hello my name is prue.
+I like drink coffee and watch movie.
